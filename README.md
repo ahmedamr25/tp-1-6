@@ -52,11 +52,8 @@ echo "[OK] Setup completed. Traffic interception should now work."
 ```
 
 ---
-<img width="973" height="631" alt="Screenshot 2026-05-09 173051" src="https://github.com/user-attachments/assets/a557058f-9078-4a1b-a2ff-db57656e3721" />
-<img width="1097" height="448" alt="Screenshot 2026-05-09 173145" src="https://github.com/user-attachments/assets/fc50f24e-8442-445c-bd47-99f9b581278f" />
 <img width="912" height="443" alt="Screenshot 2026-04-28 165418" src="https://github.com/user-attachments/assets/26ab5d6b-549a-4318-a794-d7fdcca3e83e" />
 
-<img width="1036" height="558" alt="Screenshot 2026-05-09 173113" src="https://github.com/user-attachments/assets/7db60fe0-f8c2-4ae1-9bba-4fe78652ae70" />
 
 ---
 
